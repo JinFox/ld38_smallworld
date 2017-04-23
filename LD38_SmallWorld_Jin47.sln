@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LD38_SmallWorld_Jin47", "LD38_SmallWorld_Jin47.csproj", "{C30DE43C-6085-FFEA-7CF1-26E1D4C17C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30DE43C-6085-FFEA-7CF1-26E1D4C17C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30DE43C-6085-FFEA-7CF1-26E1D4C17C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30DE43C-6085-FFEA-7CF1-26E1D4C17C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30DE43C-6085-FFEA-7CF1-26E1D4C17C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
